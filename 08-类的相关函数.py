@@ -1,6 +1,6 @@
 #检测一个类是否是另一个的子类
 class A():
-    name = None
+    name = "dasha"
     age = 20
 class A1(A):
     pass
@@ -28,8 +28,16 @@ print(hasattr(a,"ahha"))
 #取出，删除，赋值
 print(setattr(a,"age",100))
 print(getattr(a,"age"))
-delattr(a,"name")
+#delattr(a,"name")   #baocuo?
 #a.name 此时报错
 print('*' * 20)
 #-------------------------------------------
 #dir    获取成员列表
+print(a.__dir__())
+#['age', '__module__', 'name', '__dict__', '__weakref__',
+# '__doc__', '__repr__', '__hash__', '__str__', '__getattr
+# ibute__', '__setattr__', '__delattr__', '__lt__', '__le_
+# _', '__eq__', '__ne__', '__gt__', '__ge__', '__init__',
+# '__new__', '__reduce_ex__', '__reduce__', '__subclasshook
+# __', '__init_subclass__', '__format__', '__sizeof__', '__
+# dir__', '__class__']
