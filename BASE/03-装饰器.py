@@ -12,3 +12,31 @@ def qwer(func):
 f = qwer(some)
 f()
 #----------------------------------------------------------------------------------
+#2
+def say(age):
+    print("I'm %d years old." %age)
+def outer(func):
+    def inner(age):
+        print(age)
+        if age<0:
+            age = 0
+        func(age)
+    return inner
+say = outer(say)
+say(-50)
+print('*' * 20)
+#或者，outer在前，在say上写@outer就可以了
+#-------------------------------------------------------------------------------------
+#通用的装饰器
+def outer(func):
+    def inner(*args,**kwargs):
+        print('haha,outer')
+        func(*args,**kwargs)
+    return inner
+
+@outer
+def say(name,age):
+    print('{} is {} years old.'.format(name,age))
+
+say('haha',18)
+print('*' * 20)
