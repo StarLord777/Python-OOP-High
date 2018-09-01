@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="754b6fec-23dd-4259-b164-d7384eb37ac7" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/BASE/09-目录遍历（递归，栈深度，队列广度）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BASE/10-time-datetime-calendar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/12-析构函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOP-人开枪射子弹.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOP-人开枪射子弹2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BASE/09-目录遍历（递归，深度，广度）.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BASE/pythonStack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/high-01-多线程.py" beforeDir="false" afterPath="$PROJECT_DIR$/HIGH/high-01-多线程.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,21 +16,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Python_OOP_study$03_.coverage" NAME="03-装饰器 Coverage Results" MODIFIED="1535623613516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$06_pickle.coverage" NAME="06-pickle数据持久性模块 Coverage Results" MODIFIED="1535680357376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$02_self.coverage" NAME="02-self Coverage Results" MODIFIED="1535339448875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$02_.coverage" NAME="02-函数参数问题 Coverage Results" MODIFIED="1535597361951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$08_win32.coverage" NAME="08-win32调用系统语音 Coverage Results" MODIFIED="1535713171169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$09_.coverage" NAME="09-目录遍历（递归，深度，广度） Coverage Results" MODIFIED="1535768197473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$04_.coverage" NAME="04-偏函数 Coverage Results" MODIFIED="1535624805937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$11_python.coverage" NAME="11-python定制类函数 Coverage Results" MODIFIED="1535425803733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$05__.coverage" NAME="05-异常处理-断言 Coverage Results" MODIFIED="1535626148982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$09___slots__.coverage" NAME="09-__slots__设置允许绑定的属性 Coverage Results" MODIFIED="1535418126728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$08_.coverage" NAME="08-类的相关函数 Coverage Results" MODIFIED="1535368982151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$10_time.coverage" NAME="10-时间time Coverage Results" MODIFIED="1535772672174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$OOP_.coverage" NAME="OOP-人开枪射子弹 Coverage Results" MODIFIED="1535810426516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$OOP_2.coverage" NAME="OOP-人开枪射子弹2 Coverage Results" MODIFIED="1535812069362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$05_.coverage" NAME="05-继承 Coverage Results" MODIFIED="1535365807307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$03_init.coverage" NAME="03-init Coverage Results" MODIFIED="1535336734262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$01.coverage" NAME="01 Coverage Results" MODIFIED="1535333191393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$10_pythonStack.coverage" NAME="10-pythonStack Coverage Results" MODIFIED="1535721751049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$03_.coverage" NAME="03-装饰器 Coverage Results" MODIFIED="1535623613516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$06_pickle.coverage" NAME="06-pickle数据持久性模块 Coverage Results" MODIFIED="1535680357376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$08_win32.coverage" NAME="08-win32调用系统语音 Coverage Results" MODIFIED="1535713171169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$09___slots__.coverage" NAME="09-__slots__设置允许绑定的属性 Coverage Results" MODIFIED="1535418126728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$08_.coverage" NAME="08-类的相关函数 Coverage Results" MODIFIED="1535368982151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$12_.coverage" NAME="12-析构函数 Coverage Results" MODIFIED="1535809127193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$01.coverage" NAME="01 Coverage Results" MODIFIED="1535333191393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$10__propertygetset.coverage" NAME="10-@property简化getset Coverage Results" MODIFIED="1535419068009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$06_.coverage" NAME="06-多态 Coverage Results" MODIFIED="1535367395382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$07_Mixin.coverage" NAME="07-Mixin与多继承 Coverage Results" MODIFIED="1535422403489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -40,20 +46,20 @@
     <session id="-574870028">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.0" value="6" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="6" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
-          <entry key="py" value="58" />
+          <entry key="py" value="66" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
@@ -61,25 +67,25 @@
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="58" />
+          <entry key="Python" value="66" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="28" />
-          <entry key="py" value="10955" />
+          <entry key="dummy" value="46" />
+          <entry key="py" value="12521" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="28" />
-          <entry key="Python" value="10955" />
+          <entry key="PLAIN_TEXT" value="46" />
+          <entry key="Python" value="12521" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -123,6 +129,11 @@
         <option value="$PROJECT_DIR$/BASE/08-win32调用系统语音.py" />
         <option value="$PROJECT_DIR$/BASE/10-pythonStack.py" />
         <option value="$PROJECT_DIR$/BASE/09-目录遍历（递归，深度，广度）.py" />
+        <option value="$PROJECT_DIR$/BASE/10-时间time.py" />
+        <option value="$PROJECT_DIR$/BASE/10-time-datetime-calendar.py" />
+        <option value="$PROJECT_DIR$/OOP/12-析构函数.py" />
+        <option value="$PROJECT_DIR$/practice/OOP-人开枪射子弹.py" />
+        <option value="$PROJECT_DIR$/practice/OOP-人开枪射子弹2.py" />
       </list>
     </option>
   </component>
@@ -157,7 +168,7 @@
             <path>
               <item name="Python-OOP-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-OOP-study" type="462c0819:PsiDirectoryNode" />
-              <item name="BASE" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,6 +185,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\1\Python-OOP-study\HIGH" />
       <recent name="D:\1\Python-OOP-study\OOP" />
     </key>
   </component>
@@ -189,73 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.09-目录遍历（递归，深度，广度）">
-    <configuration name="07-OS模块的使用" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-OOP-study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BASE" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BASE/07-OS模块的使用.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="08-pywin32" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-OOP-study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BASE" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BASE/08-pywin32.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="08-win32调用系统语音" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-OOP-study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BASE" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BASE/08-win32调用系统语音.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.OOP-人开枪射子弹2">
     <configuration name="09-目录遍历（递归，深度，广度）" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-OOP-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -278,7 +224,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10-pythonStack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10-时间time" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-OOP-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,7 +237,73 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\1\Python-OOP-study\BASE\pythonStack.py" />
+      <option name="SCRIPT_NAME" value="D:\1\Python-OOP-study\BASE\10-time-datetime-calendar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12-析构函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-OOP-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/12-析构函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OOP-人开枪射子弹" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-OOP-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/OOP-人开枪射子弹.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OOP-人开枪射子弹2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-OOP-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/OOP-人开枪射子弹2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,19 +313,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.07-OS模块的使用" />
-      <item itemvalue="Python.08-pywin32" />
-      <item itemvalue="Python.08-win32调用系统语音" />
       <item itemvalue="Python.09-目录遍历（递归，深度，广度）" />
-      <item itemvalue="Python.10-pythonStack" />
+      <item itemvalue="Python.10-时间time" />
+      <item itemvalue="Python.12-析构函数" />
+      <item itemvalue="Python.OOP-人开枪射子弹" />
+      <item itemvalue="Python.OOP-人开枪射子弹2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.OOP-人开枪射子弹2" />
+        <item itemvalue="Python.OOP-人开枪射子弹" />
+        <item itemvalue="Python.12-析构函数" />
+        <item itemvalue="Python.10-时间time" />
         <item itemvalue="Python.09-目录遍历（递归，深度，广度）" />
-        <item itemvalue="Python.10-pythonStack" />
-        <item itemvalue="Python.08-win32调用系统语音" />
-        <item itemvalue="Python.08-pywin32" />
-        <item itemvalue="Python.07-OS模块的使用" />
       </list>
     </recent_temporary>
   </component>
@@ -342,8 +354,8 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8800676" visible="true" weight="0.16957104" />
-      <window_info id="Structure" order="1" sideWeight="0.119932435" side_tool="true" visible="true" weight="0.16957104" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8783784" visible="true" weight="0.17158177" />
+      <window_info id="Structure" order="1" sideWeight="0.12162162" side_tool="true" visible="true" weight="0.17158177" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -358,7 +370,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3281471" />
       <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info active="true" anchor="bottom" id="运行" order="13" visible="true" weight="0.16147308" />
+      <window_info active="true" anchor="bottom" id="运行" order="13" visible="true" weight="0.3711048" />
       <window_info anchor="bottom" id="调试" order="14" />
       <window_info anchor="bottom" id="找到" order="15" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -446,16 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/high-01-多线程.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP/11-python定制类函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Anaconda3/pkgs/pywin32-223-py36hfa6e2cd_1/Lib/site-packages/pythonwin/pywin/Demos/app/helloapp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-900" />
@@ -520,21 +522,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BASE/pythonStack.py">
+    <entry file="file://$PROJECT_DIR$/BASE/pythonStack.py" />
+    <entry file="file://$PROJECT_DIR$/BASE/09-目录遍历（递归，栈深度，队列广度）.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        <state relative-caret-position="383">
+          <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BASE/09-目录遍历（递归，栈深度，队列广度）.py">
+    <entry file="file://$PROJECT_DIR$/BASE/10-time-datetime-calendar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        <state relative-caret-position="263">
+          <caret line="35" column="74" selection-start-line="35" selection-start-column="74" selection-end-line="35" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/11-python定制类函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/12-析构函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
           <folding>
-            <marker date="1535768179280" expanded="true" signature="49:54" ph="..." />
-            <marker date="1535768179280" expanded="true" signature="490:495" ph="..." />
-            <marker date="1535768179280" expanded="true" signature="969:1343" ph="..." />
+            <marker date="1535809127108" expanded="true" signature="62:67" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HIGH/high-01-多线程.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/OOP-人开枪射子弹2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+          <folding>
+            <marker date="1535812069287" expanded="true" signature="30:35" ph="..." />
+            <marker date="1535812069287" expanded="true" signature="364:369" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/OOP-人开枪射子弹.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <marker date="1535810526738" expanded="true" signature="117:122" ph="..." />
           </folding>
         </state>
       </provider>
