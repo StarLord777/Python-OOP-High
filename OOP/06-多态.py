@@ -29,3 +29,28 @@ s = Student()
 get_info(p)
 get_info(t)
 get_info(s)
+print('*' * 20)
+#------------------------------------------------------------------------------------------------
+#人可以喂任何一种动物
+class Animal():
+    def __init__(self,name):
+        self.name = name
+    def eat(self):
+        print(self.name,'eat')
+class Cat(Animal):
+    pass
+class Mouse(Animal):
+    pass
+tom = Cat('tom')
+jerry = Mouse('jerry')
+
+tom.eat()
+jerry.eat()
+
+class Person():
+    def wei(self,animal):
+        print('给你食物')
+        animal.eat()
+
+p = Person()
+p.wei(Cat('pig'))
