@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="754b6fec-23dd-4259-b164-d7384eb37ac7" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HIGH/filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HIGH/map-reduce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HIGH/sorted.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HIGH/对函数进行单元测试/单元测试.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HIGH/对函数进行单元测试/单元测试代码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HIGH/对类进行单元测试/Person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HIGH/对类进行单元测试/testPerson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HIGH/文档测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HIGH/正则表达式/re模块深入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HIGH/正则表达式/判断手机号码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HIGH/正则表达式/匹配多个字符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HIGH/正则表达式/正则的元字符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HIGH/正则表达式/正则表达式1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,9 +28,11 @@
     <SUITE FILE_PATH="coverage/Python_OOP_study$10_time.coverage" NAME="10-时间time Coverage Results" MODIFIED="1535772672174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$OOP_.coverage" NAME="OOP-人开枪射子弹 Coverage Results" MODIFIED="1535810426516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$Unittests_for__Mytest.coverage" NAME="Unittests for 单元测试代码.Mytest Coverage Results" MODIFIED="1536231593645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/对函数进行单元测试" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$Doctest_sub.coverage" NAME="Doctest sub Coverage Results" MODIFIED="1536283150574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$OOP_2.coverage" NAME="OOP-人开枪射子弹2 Coverage Results" MODIFIED="1535812069362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$05_.coverage" NAME="05-继承 Coverage Results" MODIFIED="1535365807307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$03_init.coverage" NAME="03-init Coverage Results" MODIFIED="1535336734262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$1.coverage" NAME="正则表达式1 Coverage Results" MODIFIED="1536290598965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/正则表达式" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$10_pythonStack.coverage" NAME="10-pythonStack Coverage Results" MODIFIED="1535721751049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$main.coverage" NAME="main Coverage Results" MODIFIED="1535856786756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ATM银行系统练习" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$13_.coverage" NAME="13-对象属性和类属性 Coverage Results" MODIFIED="1535852428902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
@@ -41,7 +41,10 @@
     <SUITE FILE_PATH="coverage/Python_OOP_study$06_pickle.coverage" NAME="06-pickle数据持久性模块 Coverage Results" MODIFIED="1535680357376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$Unittests_in__py.coverage" NAME="Unittests in 单元测试代码.py Coverage Results" MODIFIED="1536230992276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$08_win32.coverage" NAME="08-win32调用系统语音 Coverage Results" MODIFIED="1535713171169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$.coverage" NAME="匹配多个字符 Coverage Results" MODIFIED="1536305898442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/正则表达式" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$re.coverage" NAME="re模块深入 Coverage Results" MODIFIED="1536310425745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/正则表达式" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$09___slots__.coverage" NAME="09-__slots__设置允许绑定的属性 Coverage Results" MODIFIED="1535418126728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$Doctests_in_.coverage" NAME="Doctests in 文档测试 Coverage Results" MODIFIED="1536283186574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$08_.coverage" NAME="08-类的相关函数 Coverage Results" MODIFIED="1535368982151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$sorted.coverage" NAME="sorted Coverage Results" MODIFIED="1536229743126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$map_reduce.coverage" NAME="map-reduce Coverage Results" MODIFIED="1536205614515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH" />
@@ -75,21 +78,21 @@
     <session id="-574870028">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.0" value="7" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="7" />
           <entry key="project.open.time.8" value="6" />
-          <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="27" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
           <entry key="md" value="8" />
-          <entry key="py" value="99" />
+          <entry key="py" value="112" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
@@ -97,52 +100,26 @@
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="PLAIN_TEXT" value="11" />
-          <entry key="Python" value="99" />
+          <entry key="Python" value="112" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="46" />
           <entry key="md" value="15" />
-          <entry key="py" value="17218" />
+          <entry key="py" value="20306" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="61" />
-          <entry key="Python" value="17218" />
+          <entry key="Python" value="20306" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HIGH/对类进行单元测试/Person.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-              <folding>
-                <marker date="1536232022312" expanded="true" signature="15:20" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HIGH/对类进行单元测试/testPerson.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-                <marker date="1536231917347" expanded="true" signature="75:76" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -158,12 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/05-继承.py" />
-        <option value="$PROJECT_DIR$/06-多态.py" />
-        <option value="$PROJECT_DIR$/08-类的相关函数.py" />
-        <option value="$PROJECT_DIR$/07-Mixin设计模式.py" />
-        <option value="$PROJECT_DIR$/09-__slots__设置允许绑定的属性.py" />
-        <option value="$PROJECT_DIR$/10-@property.py" />
         <option value="$PROJECT_DIR$/10-@property简化getset.py" />
         <option value="$PROJECT_DIR$/07-Mixin与多继承.py" />
         <option value="$PROJECT_DIR$/11-类的内置属性概览.py" />
@@ -209,6 +180,12 @@
         <option value="$PROJECT_DIR$/HIGH/对函数进行单元测试/单元测试代码.py" />
         <option value="$PROJECT_DIR$/HIGH/对类进行单元测试/testPerson.py" />
         <option value="$PROJECT_DIR$/HIGH/对类进行单元测试/Person.py" />
+        <option value="$PROJECT_DIR$/HIGH/文档测试.py" />
+        <option value="$PROJECT_DIR$/HIGH/正则表达式/正则表达式1.py" />
+        <option value="$PROJECT_DIR$/HIGH/正则表达式/正则的元字符.py" />
+        <option value="$PROJECT_DIR$/HIGH/正则表达式/判断手机号码.py" />
+        <option value="$PROJECT_DIR$/HIGH/正则表达式/匹配多个字符.py" />
+        <option value="$PROJECT_DIR$/HIGH/正则表达式/re模块深入.py" />
       </list>
     </option>
   </component>
@@ -219,8 +196,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="575" />
-    <option name="y" value="80" />
+    <option name="x" value="680" />
+    <option name="y" value="110" />
     <option name="width" value="1210" />
     <option name="height" value="1015" />
   </component>
@@ -232,6 +209,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,24 +230,18 @@
             <path>
               <item name="Python-OOP-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-OOP-study" type="462c0819:PsiDirectoryNode" />
-              <item name="HIGH" type="462c0819:PsiDirectoryNode" />
-              <item name="对函数进行单元测试" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-OOP-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-OOP-study" type="462c0819:PsiDirectoryNode" />
               <item name="OOP" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="hell&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spider-learn" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
@@ -293,8 +265,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Person">
-    <configuration name="Person" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.re模块深入">
+    <configuration name="正则的元字符" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-OOP-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -302,12 +274,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HIGH/对类进行单元测试" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HIGH/正则表达式" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HIGH/对类进行单元测试/Person.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HIGH/正则表达式/正则的元字符.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,7 +288,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testPerson" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="正则表达式1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-OOP-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,12 +296,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HIGH/对类进行单元测试" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HIGH/正则表达式" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HIGH/对类进行单元测试/testPerson.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HIGH/正则表达式/正则表达式1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -338,65 +310,108 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for 单元测试代码.Mytest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="匹配多个字符" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-OOP-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HIGH/对函数进行单元测试" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HIGH/正则表达式" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;单元测试代码.Mytest&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HIGH/正则表达式/匹配多个字符.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for 单元测试代码.Mytest.test_add" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="判断手机号码" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-OOP-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HIGH/对函数进行单元测试" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HIGH/正则表达式" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;单元测试代码.Mytest.test_add&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HIGH/正则表达式/判断手机号码.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in 单元测试代码.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="判断手机号码" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-OOP-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HIGH" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HIGH/正则表达式" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/HIGH/对函数进行单元测试/单元测试代码.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HIGH/正则表达式/判断手机号码.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="re模块深入" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-OOP-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HIGH/正则表达式" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HIGH/正则表达式/re模块深入.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests in 单元测试代码.py" />
-      <item itemvalue="Python tests.Unittests for 单元测试代码.Mytest.test_add" />
-      <item itemvalue="Python tests.Unittests for 单元测试代码.Mytest" />
-      <item itemvalue="Python.testPerson" />
-      <item itemvalue="Python.Person" />
+      <item itemvalue="Python.正则表达式1" />
+      <item itemvalue="Python.正则的元字符" />
+      <item itemvalue="Python.匹配多个字符" />
+      <item itemvalue="Python.判断手机号码" />
+      <item itemvalue="Python.re模块深入" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Person" />
-        <item itemvalue="Python.testPerson" />
-        <item itemvalue="Python tests.Unittests for 单元测试代码.Mytest" />
-        <item itemvalue="Python tests.Unittests for 单元测试代码.Mytest.test_add" />
-        <item itemvalue="Python tests.Unittests in 单元测试代码.py" />
+        <item itemvalue="Python.re模块深入" />
+        <item itemvalue="Python.匹配多个字符" />
+        <item itemvalue="Python.判断手机号码" />
+        <item itemvalue="Python.正则的元字符" />
+        <item itemvalue="Python.正则表达式1" />
       </list>
     </recent_temporary>
   </component>
@@ -414,23 +429,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_单元测试代码_py - 2018.09.06 at 18h 49m 52s.xml">
-      <configuration name="Unittests in 单元测试代码.py" configurationId="tests" />
+    <history-entry file="Doctest_sub - 2018.09.07 at 09h 16m 51s.xml">
+      <configuration name="Doctest sub" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_单元测试代码_Mytest - 2018.09.06 at 18h 58m 07s.xml">
-      <configuration name="Unittests for 单元测试代码.Mytest" configurationId="tests" />
+    <history-entry file="Doctest_sub - 2018.09.07 at 09h 16m 55s.xml">
+      <configuration name="Doctest sub" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_单元测试代码_Mytest - 2018.09.06 at 18h 58m 54s.xml">
-      <configuration name="Unittests for 单元测试代码.Mytest" configurationId="tests" />
+    <history-entry file="Doctest_sub - 2018.09.07 at 09h 17m 28s.xml">
+      <configuration name="Doctest sub" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_单元测试代码_Mytest - 2018.09.06 at 18h 59m 31s.xml">
-      <configuration name="Unittests for 单元测试代码.Mytest" configurationId="tests" />
+    <history-entry file="Doctests_in_文档测试 - 2018.09.07 at 09h 18m 26s.xml">
+      <configuration name="Doctests in 文档测试" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_单元测试代码_Mytest - 2018.09.06 at 18h 59m 41s.xml">
-      <configuration name="Unittests for 单元测试代码.Mytest" configurationId="tests" />
+    <history-entry file="Doctest_sub - 2018.09.07 at 09h 18m 35s.xml">
+      <configuration name="Doctest sub" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_单元测试代码_Mytest - 2018.09.06 at 18h 59m 53s.xml">
-      <configuration name="Unittests for 单元测试代码.Mytest" configurationId="tests" />
+    <history-entry file="Doctest_sub - 2018.09.07 at 09h 18m 49s.xml">
+      <configuration name="Doctest sub" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_sub - 2018.09.07 at 09h 19m 00s.xml">
+      <configuration name="Doctest sub" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_文档测试 - 2018.09.07 at 09h 19m 04s.xml">
+      <configuration name="Doctests in 文档测试" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_sub - 2018.09.07 at 09h 19m 10s.xml">
+      <configuration name="Doctest sub" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_文档测试 - 2018.09.07 at 09h 19m 46s.xml">
+      <configuration name="Doctests in 文档测试" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -444,10 +471,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.86885244" visible="true" weight="0.19235925" />
-      <window_info id="Structure" order="1" sideWeight="0.13114753" side_tool="true" visible="true" weight="0.19235925" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.86419755" visible="true" weight="0.20040214" />
+      <window_info id="Structure" order="1" sideWeight="0.13580246" side_tool="true" weight="0.20040214" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -462,8 +488,8 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3281471" />
       <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info active="true" anchor="bottom" id="运行" order="13" visible="true" weight="0.4815864" />
-      <window_info anchor="bottom" id="调试" order="14" />
+      <window_info anchor="bottom" id="运行" order="13" weight="0.31161472" />
+      <window_info anchor="bottom" id="调试" order="14" weight="0.32996207" />
       <window_info anchor="bottom" id="找到" order="15" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -480,40 +506,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/OOP/04-封装.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP/05-继承.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2970">
-          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP/07-Mixin与多继承.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11-类的内置属性概览.py" />
-    <entry file="file://$PROJECT_DIR$/OOP/08-类的相关函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Anaconda3/pkgs/pywin32-223-py36hfa6e2cd_1/Lib/site-packages/pythonwin/pywin/Demos/app/helloapp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-900" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BASE/装饰器.ipynb" />
     <entry file="file://$PROJECT_DIR$/BASE/01-迭代器.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -688,9 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
           <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-          <folding>
-            <marker date="1536229742758" expanded="true" signature="272:277" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -698,42 +687,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <marker date="1536230452262" expanded="true" signature="104:109" ph="..." />
-            <marker date="1536230452262" expanded="true" signature="136:141" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HIGH/对类进行单元测试/Person.py" />
+    <entry file="file://$PROJECT_DIR$/HIGH/对类进行单元测试/testPerson.py" />
     <entry file="file://$PROJECT_DIR$/HIGH/对函数进行单元测试/单元测试代码.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HIGH/文档测试.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HIGH/正则表达式/正则表达式1.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HIGH/正则表达式/判断手机号码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1536231763108" expanded="true" signature="76:81" ph="..." />
+            <marker date="1536305353637" expanded="true" signature="72:77" ph="..." />
+            <marker date="1536305353637" expanded="true" signature="72:229" ph="..." />
+            <marker date="1536305353637" expanded="true" signature="425:430" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HIGH/对类进行单元测试/testPerson.py">
+    <entry file="file://$PROJECT_DIR$/HIGH/正则表达式/匹配多个字符.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1536231917347" expanded="true" signature="75:76" ph="..." />
-          </folding>
+        <state relative-caret-position="350">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HIGH/对类进行单元测试/Person.py">
+    <entry file="file://$PROJECT_DIR$/HIGH/正则表达式/正则的元字符.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding>
-            <marker date="1536232022312" expanded="true" signature="15:20" ph="..." />
-          </folding>
+        <state relative-caret-position="575">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HIGH/正则表达式/re模块深入.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="66" column="82" lean-forward="true" selection-start-line="66" selection-start-column="82" selection-end-line="66" selection-end-column="82" />
         </state>
       </provider>
     </entry>
