@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="754b6fec-23dd-4259-b164-d7384eb37ac7" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/HIGH/进程线程/线程/1.概念.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HIGH/进程线程/线程/2.线程与主进程共享数据.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HIGH/进程线程/线程/3.线程锁解决线程间数据混乱.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HIGH/进程线程/线程/4.threadlocal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HIGH/进程线程/进程/4.进程间通信--Queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HIGH/进程线程/进程/封装进程类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HIGH/进程线程/线程/5.线程间通信.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HIGH/进程线程/线程/6.简单的线程调度.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HIGH/进程线程/1多进程.py" beforeDir="false" afterPath="$PROJECT_DIR$/HIGH/进程线程/进程/1多进程.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HIGH/进程线程/2全局变量在多个进程中不能共享.py" beforeDir="false" afterPath="$PROJECT_DIR$/HIGH/进程线程/进程/2全局变量在多个进程中不能共享.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HIGH/进程线程/3多个进程创建进程池.py" beforeDir="false" afterPath="$PROJECT_DIR$/HIGH/进程线程/进程/3多个进程创建进程池.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,53 +13,55 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Python_OOP_study$02_self.coverage" NAME="02-self Coverage Results" MODIFIED="1535339448875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$02_.coverage" NAME="02-函数参数问题 Coverage Results" MODIFIED="1535597361951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$filter.coverage" NAME="filter Coverage Results" MODIFIED="1536206258142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$09_.coverage" NAME="09-目录遍历（递归，深度，广度） Coverage Results" MODIFIED="1535768197473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$04_.coverage" NAME="04-偏函数 Coverage Results" MODIFIED="1535624805937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$11_python.coverage" NAME="11-python定制类函数 Coverage Results" MODIFIED="1535425803733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$05__.coverage" NAME="05-异常处理-断言 Coverage Results" MODIFIED="1535626148982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$testPerson.coverage" NAME="testPerson Coverage Results" MODIFIED="1536231763139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/对类进行单元测试" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$10_time.coverage" NAME="10-时间time Coverage Results" MODIFIED="1535772672174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$OOP_.coverage" NAME="OOP-人开枪射子弹 Coverage Results" MODIFIED="1535810426516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$Unittests_for__Mytest.coverage" NAME="Unittests for 单元测试代码.Mytest Coverage Results" MODIFIED="1536231593645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/对函数进行单元测试" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$3.coverage" NAME="3多个进程创建进程池 Coverage Results" MODIFIED="1536394215218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/进程线程" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$Doctest_sub.coverage" NAME="Doctest sub Coverage Results" MODIFIED="1536283150574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$OOP_2.coverage" NAME="OOP-人开枪射子弹2 Coverage Results" MODIFIED="1535812069362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$4_threadlocal.coverage" NAME="4.threadlocal Coverage Results" MODIFIED="1536404672795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/进程线程/线程" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$05_.coverage" NAME="05-继承 Coverage Results" MODIFIED="1535365807307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$1_.coverage" NAME="1.概念 Coverage Results" MODIFIED="1536398926248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/进程线程/线程" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$03_init.coverage" NAME="03-init Coverage Results" MODIFIED="1535336734262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$1.coverage" NAME="1多任务原理 Coverage Results" MODIFIED="1536374592843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/进程线程" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$4___Queue.coverage" NAME="4.进程间通信--Queue Coverage Results" MODIFIED="1536397387276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/进程线程/进程" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$10_pythonStack.coverage" NAME="10-pythonStack Coverage Results" MODIFIED="1535721751049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$main.coverage" NAME="main Coverage Results" MODIFIED="1535856786756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ATM银行系统练习" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$13_.coverage" NAME="13-对象属性和类属性 Coverage Results" MODIFIED="1535852428902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1535882785164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/OOP-ATM银行系统" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$03_.coverage" NAME="03-装饰器 Coverage Results" MODIFIED="1535623613516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$06_pickle.coverage" NAME="06-pickle数据持久性模块 Coverage Results" MODIFIED="1535680357376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$Unittests_in__py.coverage" NAME="Unittests in 单元测试代码.py Coverage Results" MODIFIED="1536230992276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$08_win32.coverage" NAME="08-win32调用系统语音 Coverage Results" MODIFIED="1535713171169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$.coverage" NAME="封装进程类 Coverage Results" MODIFIED="1536395996388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/进程线程/进程" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$3_.coverage" NAME="3.线程锁解决线程间数据混乱 Coverage Results" MODIFIED="1536403098909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/进程线程/线程" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$re.coverage" NAME="re模块深入 Coverage Results" MODIFIED="1536310425745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/正则表达式" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$09___slots__.coverage" NAME="09-__slots__设置允许绑定的属性 Coverage Results" MODIFIED="1535418126728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$Doctests_in_.coverage" NAME="Doctests in 文档测试 Coverage Results" MODIFIED="1536283186574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$2_.coverage" NAME="2.线程与主进程共享数据 Coverage Results" MODIFIED="1536399375177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/进程线程/线程" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$08_.coverage" NAME="08-类的相关函数 Coverage Results" MODIFIED="1535368982151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$sorted.coverage" NAME="sorted Coverage Results" MODIFIED="1536229743126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$map_reduce.coverage" NAME="map-reduce Coverage Results" MODIFIED="1536205614515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$12_.coverage" NAME="12-析构函数 Coverage Results" MODIFIED="1535809127193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$14_.coverage" NAME="14-给对象动态添加方法 Coverage Results" MODIFIED="1535852593675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$01.coverage" NAME="01 Coverage Results" MODIFIED="1535333191393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$5_.coverage" NAME="5.线程间通信 Coverage Results" MODIFIED="1536455005541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/进程线程/线程" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$07_Mixin.coverage" NAME="07-Mixin与多继承 Coverage Results" MODIFIED="1535422403489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$01_.coverage" NAME="01-迭代器 Coverage Results" MODIFIED="1535593758620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$07_OS.coverage" NAME="07-OS模块的使用 Coverage Results" MODIFIED="1535681849210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$6_.coverage" NAME="6.简单的线程调度 Coverage Results" MODIFIED="1536458198793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/进程线程/线程" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$02_self.coverage" NAME="02-self Coverage Results" MODIFIED="1535339448875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$filter.coverage" NAME="filter Coverage Results" MODIFIED="1536206258142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$04_.coverage" NAME="04-偏函数 Coverage Results" MODIFIED="1535624805937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$11_python.coverage" NAME="11-python定制类函数 Coverage Results" MODIFIED="1535425803733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$05__.coverage" NAME="05-异常处理-断言 Coverage Results" MODIFIED="1535626148982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$testPerson.coverage" NAME="testPerson Coverage Results" MODIFIED="1536231763139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/对类进行单元测试" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$OOP_.coverage" NAME="OOP-人开枪射子弹 Coverage Results" MODIFIED="1535810426516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$OOP_2.coverage" NAME="OOP-人开枪射子弹2 Coverage Results" MODIFIED="1535812069362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$4_threadlocal.coverage" NAME="4.threadlocal Coverage Results" MODIFIED="1536404672795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/进程线程/线程" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$4___Queue.coverage" NAME="4.进程间通信--Queue Coverage Results" MODIFIED="1536397387276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/进程线程/进程" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$10_pythonStack.coverage" NAME="10-pythonStack Coverage Results" MODIFIED="1535721751049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$main.coverage" NAME="main Coverage Results" MODIFIED="1535856786756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ATM银行系统练习" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1535882785164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/OOP-ATM银行系统" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$03_.coverage" NAME="03-装饰器 Coverage Results" MODIFIED="1535623613516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$Unittests_in__py.coverage" NAME="Unittests in 单元测试代码.py Coverage Results" MODIFIED="1536230992276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$08_win32.coverage" NAME="08-win32调用系统语音 Coverage Results" MODIFIED="1535713171169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$3_.coverage" NAME="3.线程锁解决线程间数据混乱 Coverage Results" MODIFIED="1536403098909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/进程线程/线程" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$map_reduce.coverage" NAME="map-reduce Coverage Results" MODIFIED="1536205614515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH" />
+    <SUITE FILE_PATH="coverage/Python_OOP_study$12_.coverage" NAME="12-析构函数 Coverage Results" MODIFIED="1535809127193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$atm.coverage" NAME="atm Coverage Results" MODIFIED="1535882433475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/OOP-ATM银行系统" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$Person.coverage" NAME="Person Coverage Results" MODIFIED="1536232022378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HIGH/对类进行单元测试" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$10__propertygetset.coverage" NAME="10-@property简化getset Coverage Results" MODIFIED="1535419068009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$07_Mixin.coverage" NAME="07-Mixin与多继承 Coverage Results" MODIFIED="1535422403489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$01_.coverage" NAME="01-迭代器 Coverage Results" MODIFIED="1535593758620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$06_.coverage" NAME="06-多态 Coverage Results" MODIFIED="1535850918334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
-    <SUITE FILE_PATH="coverage/Python_OOP_study$07_OS.coverage" NAME="07-OS模块的使用 Coverage Results" MODIFIED="1535681849210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
     <SUITE FILE_PATH="coverage/Python_OOP_study$08_pywin32.coverage" NAME="08-pywin32 Coverage Results" MODIFIED="1535709676615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
   </component>
   <component name="DatabaseView">
@@ -87,21 +82,22 @@
     <session id="-574870028">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="26" />
+          <entry key="project.closed" value="27" />
           <entry key="project.open.time.0" value="8" />
           <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.6" value="4" />
           <entry key="project.open.time.7" value="7" />
           <entry key="project.open.time.8" value="6" />
-          <entry key="project.open.time.9" value="5" />
-          <entry key="project.opened" value="33" />
+          <entry key="project.open.time.9" value="6" />
+          <entry key="project.opened" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
           <entry key="md" value="8" />
-          <entry key="py" value="133" />
+          <entry key="py" value="144" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
@@ -109,20 +105,20 @@
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="PLAIN_TEXT" value="11" />
-          <entry key="Python" value="133" />
+          <entry key="Python" value="144" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="49" />
           <entry key="md" value="15" />
-          <entry key="py" value="23710" />
+          <entry key="py" value="24533" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="64" />
-          <entry key="Python" value="23710" />
+          <entry key="Python" value="24533" />
         </counts>
       </usages-collector>
     </session>
@@ -130,13 +126,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HIGH/进程线程/线程/4.threadlocal.py">
+        <entry file="file://$PROJECT_DIR$/HIGH/进程线程/线程/6.简单的线程调度.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+            <state relative-caret-position="325">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               <folding>
-                <element signature="e#36#55#0" expanded="true" />
-                <marker date="1536404822693" expanded="true" signature="153:158" ph="..." />
+                <marker date="1536458303190" expanded="true" signature="121:126" ph="..." />
               </folding>
             </state>
           </provider>
@@ -158,8 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BASE/06-pickle数据持久性模块.py" />
-        <option value="$PROJECT_DIR$/BASE/07-OS模块的使用.py" />
         <option value="$PROJECT_DIR$/BASE/08-pywin32.py" />
         <option value="$PROJECT_DIR$/BASE/08-win32调用系统语音.py" />
         <option value="$PROJECT_DIR$/BASE/10-pythonStack.py" />
@@ -209,6 +202,8 @@
         <option value="$PROJECT_DIR$/HIGH/进程线程/线程/2.线程与主进程共享数据.py" />
         <option value="$PROJECT_DIR$/HIGH/进程线程/线程/3.线程锁解决线程间数据混乱.py" />
         <option value="$PROJECT_DIR$/HIGH/进程线程/线程/4.threadlocal.py" />
+        <option value="$PROJECT_DIR$/HIGH/进程线程/线程/5.线程间通信.py" />
+        <option value="$PROJECT_DIR$/HIGH/进程线程/线程/6.简单的线程调度.py" />
       </list>
     </option>
   </component>
@@ -232,7 +227,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -269,6 +263,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -300,29 +295,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4.threadlocal">
-    <configuration name="1.概念" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-OOP-study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HIGH/进程线程/线程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HIGH/进程线程/线程/1.概念.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.6.简单的线程调度">
     <configuration name="2.线程与主进程共享数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-OOP-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -367,28 +340,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.进程间通信--Queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-OOP-study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HIGH/进程线程/进程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HIGH/进程线程/进程/4.进程间通信--Queue.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="4.threadlocal" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-OOP-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -411,7 +362,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="全局变量在多个进程中不能共享" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5.线程间通信" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-OOP-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -419,12 +370,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HIGH/进程线程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HIGH/进程线程/线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\1\Python-OOP-study\HIGH\进程线程\2全局变量在多个进程中不能共享.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HIGH/进程线程/线程/5.线程间通信.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -433,7 +384,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="匹配多个字符" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6.简单的线程调度" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-OOP-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -441,12 +392,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HIGH/正则表达式" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HIGH/进程线程/线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HIGH/正则表达式/匹配多个字符.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HIGH/进程线程/线程/6.简单的线程调度.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -500,19 +451,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.4.进程间通信--Queue" />
-      <item itemvalue="Python.1.概念" />
       <item itemvalue="Python.2.线程与主进程共享数据" />
       <item itemvalue="Python.3.线程锁解决线程间数据混乱" />
       <item itemvalue="Python.4.threadlocal" />
+      <item itemvalue="Python.5.线程间通信" />
+      <item itemvalue="Python.6.简单的线程调度" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6.简单的线程调度" />
+        <item itemvalue="Python.5.线程间通信" />
         <item itemvalue="Python.4.threadlocal" />
         <item itemvalue="Python.3.线程锁解决线程间数据混乱" />
         <item itemvalue="Python.2.线程与主进程共享数据" />
-        <item itemvalue="Python.1.概念" />
-        <item itemvalue="Python.4.进程间通信--Queue" />
       </list>
     </recent_temporary>
   </component>
@@ -572,8 +523,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.86419755" visible="true" weight="0.20844504" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.86419755" visible="true" weight="0.21380697" />
       <window_info id="Structure" order="1" sideWeight="0.13580246" side_tool="true" weight="0.20040214" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -589,7 +541,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3281471" />
       <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="bottom" id="运行" order="13" weight="0.3937677" />
+      <window_info active="true" anchor="bottom" id="运行" order="13" visible="true" weight="0.39518413" />
       <window_info anchor="bottom" id="调试" order="14" weight="0.3286119" />
       <window_info anchor="bottom" id="找到" order="15" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -607,14 +559,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BASE/07-OS模块的使用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BASE/pythonStack.py" />
     <entry file="file://$PROJECT_DIR$/BASE/10-time-datetime-calendar.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
@@ -788,27 +732,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HIGH/进程线程/进程/3多个进程创建进程池.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding>
-            <marker date="1536394206932" expanded="true" signature="166:171" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HIGH/进程线程/进程/封装进程类.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-            <marker date="1536395996027" expanded="true" signature="77:82" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BASE/09-目录遍历（递归，栈深度，队列广度）.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -816,47 +739,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HIGH/进程线程/进程/4.进程间通信--Queue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
-          <folding>
-            <element signature="e#28#69#0" expanded="true" />
-            <marker date="1536397553853" expanded="true" signature="100:105" ph="..." />
-            <marker date="1536397553853" expanded="true" signature="100:225" ph="..." />
-            <marker date="1536397553853" expanded="true" signature="241:246" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HIGH/进程线程/线程/1.概念.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
+        <state relative-caret-position="275">
           <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
-          <folding>
-            <marker date="1536398925892" expanded="true" signature="188:193" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HIGH/进程线程/进程/1多进程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <marker date="1536378107904" expanded="true" signature="169:174" ph="..." />
-            <marker date="1536378107904" expanded="true" signature="253:254" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HIGH/进程线程/进程/2全局变量在多个进程中不能共享.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-250">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          <folding>
-            <marker date="1536378553190" expanded="true" signature="147:231" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -864,9 +750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding>
-            <marker date="1536399374807" expanded="true" signature="112:117" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -882,11 +765,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HIGH/进程线程/线程/4.threadlocal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="-225">
           <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
           <folding>
-            <element signature="e#36#55#0" expanded="true" />
             <marker date="1536404822693" expanded="true" signature="153:158" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HIGH/进程线程/进程/2全局变量在多个进程中不能共享.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HIGH/进程线程/进程/3多个进程创建进程池.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HIGH/进程线程/进程/1多进程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HIGH/进程线程/进程/4.进程间通信--Queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184">
+          <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HIGH/进程线程/进程/封装进程类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HIGH/进程线程/线程/5.线程间通信.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding>
+            <marker date="1536455510480" expanded="true" signature="84:89" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HIGH/进程线程/线程/6.简单的线程调度.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1536458303190" expanded="true" signature="121:126" ph="..." />
           </folding>
         </state>
       </provider>
